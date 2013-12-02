@@ -1,4 +1,4 @@
-zuia.example
-============
+Zühlke WPF UITest Framework - Example App
+=========================================
 
-Example App for the Zühlke UI Automation Framework
+See https://github.com/ogirard/zuia/blob/master/README.md
